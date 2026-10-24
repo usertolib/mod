@@ -1,0 +1,9 @@
+{
+	"required": true,
+	"package": "uz.menim.smptweaks.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": ["PotionMixin"],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
